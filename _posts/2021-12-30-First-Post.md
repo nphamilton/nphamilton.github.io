@@ -12,7 +12,7 @@ I came to this decision after finding success with a similar solution to a diffe
 
 How did I overcome this hatred for reading? _I started reading novels again._ It's the age-old techinique of trying to find why you enjoyed doing something in the first place. I used to read voraciously as a kid and found so much joy in it. I just needed to find that spark again. So, I picked up a Percy Jackson book (one of my favorite series growing up) and tried to read it. After a slow start, I started to read more and more for longer periods of time. Now, I no longer dread having to read research papers and try to keep up with reading new novels every few weeks. An added benfit: my reading seed has gotten faster. 
 
-Thus, I figure: might as well give it a try with writing. My wife's brother-in-law started writing sports blogs and he seems to really enjoy it (it also got him a freelance gig writing two articles a week about his favorite football team). So, I'll be starting with writing about things I enjoy and am passionate about and see where things go from there.
+Thus, I figure: might as well give it a try with writing. My friend Kristian Gumminger ([@kgumminger](https://twitter.com/kgumminger?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)) started writing sports blogs and he seems to really enjoy it (it also got him a freelance gig writing two articles a week about the Kansas City Chiefs for [Arrowhead Pride](https://www.arrowheadpride.com/)). He's inspired me to give it a try. So, I'll be starting with writing about things I enjoy and am passionate about and see where things go from there.
 
 Wish me luck!
 

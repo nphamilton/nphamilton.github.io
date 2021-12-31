@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Post
+title: First Post and Why I'm Blogging
 date: 2021-12-30
 categories:
 ---

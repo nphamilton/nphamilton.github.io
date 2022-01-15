@@ -18,6 +18,7 @@ t:
   email: "Email"
   subscribe: "Subscribe"
   read_more: "Read More"
+  highlights: "Highlights"
   posts: "Posts"
   page: "Page"
   of: "of"
@@ -52,3 +53,4 @@ navigation_pages:
   - about.md
   - cv.md
   - blog.md
+  - coffee.md

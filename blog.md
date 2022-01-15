@@ -1,6 +1,7 @@
 ---
 layout: posts
 title: Blog
+taxonomy: blog
 # permalink: /blog/
 ---
 Hello and welcome to my blog. Here I have posts covering the wide variety of topics in my life. I'll cover topics from my research in Safe Reinforcement Learning, to the novels I'm reading, and the coffee I am drinking. At some point, when I've written more, I might try to categorize them so they can be grouped accordingly.

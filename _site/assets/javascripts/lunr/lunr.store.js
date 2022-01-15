@@ -1,4 +1,9 @@
 var store = [{
+        "title": "Earned a Master of Science from Vanderbilt University",
+        "excerpt":" ","categories": ["highlights"],
+        "tags": [],
+        "url": "http://localhost:4000/highlights/2020/05/08/Masters-Graduation.html"
+      },{
         "title": "First Post and Why I'm Blogging",
         "excerpt":"Hello World! I’m starting this blog primarily for my own benefit. I often struggle with writers block associated with completing my research papers, which has pushed me further towards burning out and caused me to miss conference deadlines that I was shooting for. All-in-all, this is not good. To try...","categories": ["blog"],
         "tags": [],

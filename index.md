@@ -1,6 +1,7 @@
 ---
 layout: home
 taxonomy: highlights
+paginate: true
 ---
 
 <!-- If you want to add more pages, make sure to add the .md file name to the _data/theme.yml file under "navigation_pages:" -->

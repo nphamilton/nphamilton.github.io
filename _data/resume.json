@@ -1,0 +1,335 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Nathaniel Hamilton",
+    "label": "Graduate Research Assistant at Vanderbilt University",
+    "image": "",
+    "url": "https://nphamilton.github.io",
+    "summary": "Nathaniel Hamilton is a PhD candidate at Vanderbilt University funded through the National Defense Science and Engineering Graduate (NDSEG) Fellowship to complete his research on safe and robust Reinforcement Learning for autonomous Cyber-Physical Systems. After completing his degree, Nathaniel plans to continue researching and developing safe and robust machine learning controllers for autonomous robotics.",
+    "location": {
+      "countryCode": "US",
+      "address": "United States"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "nphamilton",
+        "url": "https://www.linkedin.com/in/nphamilton/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Institute for Software Integrated Systems",
+      "position": "Research Assistant",
+      "startDate": "2017-05-31",
+      "endDate": "",
+      "highlights": [],
+      "url": "",
+      "location": "Nashville, TN"
+    },
+    {
+      "name": "Wright State University",
+      "position": "Autonomy Technology Research Center Summer Intern",
+      "startDate": "2021-05-31",
+      "endDate": "2021-08-31",
+      "highlights": [],
+      "summary": "Completed a Distribution C project involving a deep look into how run time assurance impacts the safety and robustness of learning-enabled controllers trained via reinforcement learning. The internship ended with multiple write-ups that are in the process of becoming public release.",
+      "url": "https://www.linkedin.com/school/wright-state-university/",
+      "location": "Dayton, Ohio, United States"
+    },
+    {
+      "name": "Wright State University",
+      "position": "Autonomy Technology Research Center Summer Intern",
+      "startDate": "2020-05-31",
+      "endDate": "2020-08-31",
+      "highlights": [],
+      "summary": "Completed a Distribution C project involving Opposition-Based Learning and its potential applications in Safe Reinforcement Learning. The internship ended with multiple write-ups that are in the process of becoming public release.",
+      "url": "https://www.linkedin.com/school/wright-state-university/",
+      "location": "Dayton, Ohio, United States"
+    },
+    {
+      "name": "Wright State University",
+      "position": "Autonomy Technology Research Center Summer Intern",
+      "startDate": "2019-05-31",
+      "endDate": "2019-08-31",
+      "highlights": [],
+      "summary": "Completed a Distribution C project involving Deep Reinforcement Learning and Transfer Learning. The internship ended with a write-up, a poster and a publication.",
+      "url": "https://www.linkedin.com/school/wright-state-university/",
+      "location": "Dayton, Ohio, United States"
+    },
+    {
+      "name": "Lipscomb University IT Help Desk",
+      "position": "Student Worker",
+      "startDate": "2015-01-31",
+      "endDate": "2017-05-31",
+      "highlights": [],
+      "url": "",
+      "location": "Greater Nashville Area, TN"
+    },
+    {
+      "name": "University of Arizona",
+      "position": "Summer Research Student",
+      "startDate": "2016-06-30",
+      "endDate": "2016-08-31",
+      "highlights": [],
+      "summary": "For the 10 weeks I was there, I was charged with the task of researching and developing a controller for the CAT Vehicle. The controller used information gathered from a laser sensor mounted of the front of the car to determine what velocity the car should proceed at. It was designed for use in stop-and-go traffic situations, and as such, responded to changes in a preceding car's velocity.",
+      "url": ""
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Inner City Ministries",
+      "position": "Puppeteer/Teacher Aid",
+      "startDate": "2014-02-28",
+      "endDate": "2015-05-31",
+      "summary": "Most Monday nights I walk to Granny White Church of Christ to participate in Inner City Ministries. As a Teacher Aid, I help teachers keep the children in line. In addition to helping teachers, once a month, I perform a puppet show for the younger kids to help introduce the new lesson for the month.",
+      "highlights": [],
+      "url": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "Vanderbilt University",
+      "area": "Electrical Engineering",
+      "studyType": "Doctor of Philosophy - PhD",
+      "startDate": "2017-08-31",
+      "endDate": "2022-06-30",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Vanderbilt University",
+      "area": "Electrical  Engineering",
+      "studyType": "Master's degree",
+      "startDate": "2017-12-31",
+      "endDate": "2020-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Lipscomb University",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "Bachelor of Science (B.S.)",
+      "startDate": "2013-12-31",
+      "endDate": "2017-12-31",
+      "score": "3.976",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "National Defense Science and Engineering Graduate (NDSEG) Fellowship",
+      "date": "2019-04-30",
+      "awarder": "Department of Defense",
+      "summary": "The DoD National Defense Science and Engineering Graduate (NDSEG) Fellowship Program is a competitive fellowship that is awarded to U.S. citizens, U.S. nationals, and U.S. dual citizens who intend to pursue a Doctoral degree aligned to the DoD services Broad Agency Announcements (BAAs) in research and development at a U.S. institution of their choice. The NDSEG Fellowship lasts for 3 years and pays for full tuition and all mandatory fees, a monthly stipend, and a $5,000 travel budget over the Fellow’s tenure for professional development. More information is available at https://ndseg.sysplus.com/"
+    },
+    {
+      "title": "The Outstanding Student in Electrical and Computer Engineering",
+      "date": "2017-04-30",
+      "awarder": "Lipscomb University Electrical Engineering and Computer Engineering Department Chair",
+      "summary": "Awarded to the outstanding graduate in electrical and computer engineering selected by the EECE faculty."
+    },
+    {
+      "title": "Presidential Scholarship",
+      "date": "2013-08-31",
+      "awarder": "Lipscomb Uiversity",
+      "summary": "Academic scholarship covering half of tuition for all 4 years of enrollment."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Machine Learning",
+      "issuer": "Coursera Course Certificates",
+      "startDate": "2019-02-28",
+      "url": "https://www.coursera.org/account/accomplishments/verify/SU939YCR843U"
+    },
+    {
+      "name": "Master of Science in Electrical Engineering",
+      "issuer": "Vanderbilt University",
+      "startDate": "2020-05-31",
+      "url": "https://registrar.vanderbilt.edu/cecredential/validate.php"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Computer Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Electrical Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Circuit Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer Hardware",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Robotics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Robot Control",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mobile Robotics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Autonomous Vehicles",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Simulink",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Matlab",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer Vision",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Algorithms",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Event Planning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Genetic Algorithms",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Research",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Fuzzy Logic",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MIPS Assembly",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Artificial Neural Networks",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Problem Solving",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Navigation Systems",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Control Systems Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Image Processing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Reinforcement Learning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Real-time Control Systems",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Report Writing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Neural Networks",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ROS",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}

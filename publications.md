@@ -4,13 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 
-# Publications
-
 A list of my publications, can also be found on my [Google Scholar page](https://scholar.google.com/citations?user=c7TBV-cAAAAJ&hl=en).
 
 ## 2022
 
- 1. Preston K Robinette, Benjamin K Heiner, Umberto Ravaioli, __Nathaniel Hamilton__, Taylor T Johnson, Kerianne L Hobbs. "Reinforcement Learning Heuristics for Aerospace Control Systems." _IEEE Aerospace Conference_. <!-- [[link]()] -->
+1. Preston K Robinette, Benjamin K Heiner, Umberto Ravaioli, __Nathaniel Hamilton__, Taylor T Johnson, Kerianne L Hobbs. "Reinforcement Learning Heuristics for Aerospace Control Systems." _IEEE Aerospace Conference_. <!-- [[link]()] -->
 
 2. __Nathaniel Hamilton__, Patrick Musau, Diego Manzanas Lopez, Taylor T Johnson. "Zero-Shot Policy Transfer in Autonomous Racing: Reinforcement Learning vs Imitation Learning." _International Conference on Assured Autonomy_. <!-- [[link]()] -->
 

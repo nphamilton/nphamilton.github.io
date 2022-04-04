@@ -17,7 +17,7 @@ During my time with the Verification and Validation of Intelligent and Trustwort
 
 __A tool for monitoring Signal Temporal Logic (STL) specifications in OpenAI Gym environments and replacing the reward function with the degree of robustness.__
 
-This project is still under deveopment.
+This project is still under development.
 
 ## [mlv_2020_project](https://github.com/nphamilton/mlv_2020_project)
 

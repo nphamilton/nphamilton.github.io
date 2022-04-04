@@ -52,4 +52,4 @@ So far, I am ahead of schedule for my reading goal. I challenged myself to read 
 
 7. "An Echo of Things to Come" by James Islington
     * 5/5 stars
-    * Building off the acheivements of the first, the sequel to "The Shadow of What Was Lost" is even better. I love learning more about the character's past and gleaning glimpses of their futures. Everything is connected and it's so great seeing the author's vision slowly unfold. I wille be devouring the final book as soon as I can.
+    * Building off the acheivements of the first, the sequel to "The Shadow of What Was Lost" is even better. I love learning more about the characters' pasts and gleaning glimpses of their futures. Everything is connected and it's so great seeing the author's vision slowly unfold. I wille be devouring the final book as soon as I can.

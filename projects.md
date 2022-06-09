@@ -31,4 +31,4 @@ I outlined everything I did in [this write-up](/assets/papers/ML_Verification_Pr
 
 __A collection of RL algorithms and training applications I wrote.__
 
-I started this project in an attempt to create understandable RL algorithms. I started this before stable-baselines made a commitment to maintaining good documentation and before SpinningUp was released. The main advantage for continuing to use these implementations is when training agents in ROS applications. 
+I started this project in an attempt to create understandable RL algorithms. I started this before stable-baselines made a commitment to maintaining good documentation and before SpinningUp was released. The main advantage of continuing to use these implementations is when training agents in ROS applications. 

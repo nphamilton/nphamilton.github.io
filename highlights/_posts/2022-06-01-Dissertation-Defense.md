@@ -6,8 +6,9 @@ date: 2022-06-01
 categories:
 # image: assets/images/masters_diploma.jpg
 ---
-## Dissertation Title:
-[Safe and Robust Reinforcement Learning for Autonomous Cyber-Physical Systems](https://nphamilton.github.io/assets/papers/dissertation.pdf)
+## Recorded presentation available [here](https://nphamilton.github.io/assets/downloads/defense_recording.mp4).
+
+# [Safe and Robust Reinforcement Learning for Autonomous Cyber-Physical Systems](https://nphamilton.github.io/assets/papers/dissertation.pdf)
 
 ## Abstract
 
@@ -25,4 +26,3 @@ To this end, the following dissertation presents research on methods for making 
 * Dr. Meiyi Ma, [https://meiyima.github.io/](https://meiyima.github.io/)
 * Dr. Forrest Laine, [https://4estlaine.github.io/](https://4estlaine.github.io/)
 
-## Recorded presentation available [here](https://nphamilton.github.io/assets/downloads/defense_recording.mp4).

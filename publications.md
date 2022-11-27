@@ -8,11 +8,15 @@ A list of my publications, can also be found on my [Google Scholar page](https:/
 
 ## 2022
 
-1. Preston K Robinette, Benjamin K Heiner, Umberto Ravaioli, __Nathaniel Hamilton__, Taylor T Johnson, Kerianne L Hobbs. "Reinforcement Learning Heuristics for Aerospace Control Systems." _IEEE Aerospace Conference_. <!-- [[link]()] -->
+1. Preston K Robinette, Benjamin K Heiner, Umberto Ravaioli, __Nathaniel Hamilton__, Taylor T Johnson, Kerianne L Hobbs. "Reinforcement Learning Heuristics for Aerospace Control Systems." _IEEE Aerospace Conference_. [[link](https://ieeexplore.ieee.org/abstract/document/9843224)]
 
-2. __Nathaniel Hamilton__, Patrick Musau, Diego Manzanas Lopez, Taylor T Johnson. "Zero-Shot Policy Transfer in Autonomous Racing: Reinforcement Learning vs Imitation Learning." _International Conference on Assured Autonomy_. <!-- [[link]()] -->
+2. __Nathaniel Hamilton__, Patrick Musau, Diego Manzanas Lopez, Taylor T Johnson. "Zero-Shot Policy Transfer in Autonomous Racing: Reinforcement Learning vs Imitation Learning." _International Conference on Assured Autonomy_. [[link](https://ieeexplore.ieee.org/abstract/document/9763640)]
 
-3. Patrick Musau, __Nathaniel Hamilton__, Diego Manzanas Lopez, Preston Robinette, Taylor T Johnson. "On Using Real-Time Reachability for the Safety Assurance of Machine Learning Controllers." _International Conference on Assured Autonomy_. <!-- [[link]()] -->
+3. Patrick Musau, __Nathaniel Hamilton__, Diego Manzanas Lopez, Preston Robinette, Taylor T Johnson. "On Using Real-Time Reachability for the Safety Assurance of Machine Learning Controllers." _International Conference on Assured Autonomy_. [[link](https://ieeexplore.ieee.org/abstract/document/9763623)]
+
+4. Diego Manzanas Lopez, Patrick Musau, __Nathaniel P Hamilton__, Taylor T Johnson. "Reachability Analysis of a General Class of Neural Ordinary Differential Equations." _International Conference on Formal Modeling and Analysis of Timed Systems._ [[link](https://link.springer.com/chapter/10.1007/978-3-031-15839-1_15)]
+
+5. __Nathaniel Hamilton__, Preston K Robinette, Taylor T Johnson. "Training Agents to Satisfy Timed and Untimed Signal Temporal Logic Specifications with Reinforcement Learning." _International Conference on Software Engineering and Formal Methods._ [[link](https://link.springer.com/chapter/10.1007/978-3-031-17108-6_12)]
 
 ## 2021
 
